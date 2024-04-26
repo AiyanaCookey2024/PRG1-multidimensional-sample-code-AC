@@ -143,3 +143,4 @@ console.log(calculateMaxValue(scores))
 // });
 
 // console.table(activities);
+//
